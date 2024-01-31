@@ -1,4 +1,4 @@
-# SalletView
+# overlay_tint
 
 A standalone Windows application that provides an interactible overlay to help improve focus when reading
 
@@ -14,4 +14,4 @@ Shoot me an e-mail at throwieaway1142@gmail.com with any feedback or questions, 
 
 ## Download executable
 
-[You can download the executables here](https://github.com/Jan-bog/SalletView/releases/)
+[You can download the executables here](https://github.com/quad-indent/overlay_tint/releases/)
