@@ -8,9 +8,6 @@ This app tints the entire screen and produces a differently-tinted rectangle tha
 - Customisable width, height, and colour of the highlight rectangle
 - Customisable opacity and colour of the background
 - Persistent settings
-## Feedback and support
-
-Shoot me an e-mail at throwieaway1142@gmail.com with any feedback or questions, thanks in advance! (despite the name, I do use this e-mail address)
 
 ## Download executable
 
